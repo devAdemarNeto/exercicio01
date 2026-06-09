@@ -1,2 +1,3 @@
 Meu primeiro projeto Git 
 Segunda altera‡Æo 
+Pessoa B esteve aqui 
